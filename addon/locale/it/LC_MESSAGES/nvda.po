@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ltxSpeechDict0.1dev\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
+"POT-Creation-Date: 2018-11-05 19:09+0100\n"
+"PO-Revision-Date: 2018-11-05 19:11+0100\n"
+"Last-Translator: Chris Leo Mameli <llajta2012@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "Latex Dictionary"
+msgstr "Dizionario Latex"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Press NVDA+shift+i to toggle Dictionary for Latex language"
+msgstr "Premere NVDA+shift+i per attivare il dizionario Latex"
+
+#. Translators: warning when the dictionary is unloaded.
+#. Translators: warning when the dictionary is loaded.
+#: addon\globalPlugins\ltxDict.py:83 addon\globalPlugins\ltxDict.py:87
+#, python-format
+msgid "Latex dictionary %s"
+msgstr "Dizionario Latex %s"
+
+#: addon\globalPlugins\ltxDict.py:83
+msgid "off"
+msgstr "Disattivato"
+
+#: addon\globalPlugins\ltxDict.py:87
+msgid "on"
+msgstr "Attivato"
+
+#: addon\globalPlugins\ltxDict.py:88
+msgid "Toggles on and off the speaking of Latex dictionary."
+msgstr "Attiva o disattiva il dizionario Latex."
+
+#~ msgid "eSpeak dictionary %s"
+#~ msgstr "Dizionario per eSpeak %s"
+
+#~ msgid "EspeakDict %s"
+#~ msgstr "Dizionario per Espeak %s"

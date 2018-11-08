@@ -1,8 +1,8 @@
 ﻿# Latex speech dictionary
 
-This addon install the speech dictionary for Latex language.
+This addon installs   the speech dictionaries   from [integr-abile/axessdicts](https://github.com/integr-abile/axessdicts.git) for Latex language.
 
-Allows toggle dictionary pressing nvda+shift+I.
+Allows toggle speech dictionary pressing nvda+shift+I.
 
 By default is disabled.
 
